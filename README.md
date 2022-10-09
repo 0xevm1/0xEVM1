@@ -6,9 +6,13 @@
 
 🤓 I audit other people's smart contracts
 
-I can do some of those things for you too!
 
-I'm passionate about knowing the latest in smart contract development trends, and what projects are coming to the market. I typically do not contribute to open source DeFi protocols, periodically I upload or make public some examples of my work and competence.
+![Tracing what a smart contract is doing in the EVM](https://github.com/0xevm1/0xEVM1/blob/main/evm-efficiency-tracer.gif)
+
+
+I can do some of those things for you too! I'm passionate about knowing the latest in smart contract development trends, and what projects are coming to the market. 
+
+I typically do not contribute to open source DeFi protocols, periodically I upload or make public some examples of my work and competence.
 
 - [Solidity and Typescript "Data packing" and "bitpacking" example](https://github.com/0xevm1/chad-dao-solidity-bit-packing) to save everyone gas.
 
