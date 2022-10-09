@@ -18,7 +18,7 @@ I can do some of those things for you too! I'm passionate about knowing the late
 
 ### Open Source projects
 
-I typically do not contribute to open source DeFi protocols, although since thats what [b]you[/b] want to see, periodically I upload or can make public some examples of my work and competence.
+I typically do not contribute to open source DeFi protocols, although since thats what _**you**_ want to see, periodically I upload or can make public some examples of my work and competence.
 
 - [SAVE GAS! Solidity and Typescript "Data packing" and "bitpacking" example](https://github.com/0xevm1/chad-dao-solidity-bit-packing) to save everyone gas.
 
