@@ -4,6 +4,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### Contact Me via:
+
+Telegram: [@evm1dev](https://t.me/evm1dev)
+
+Email: 0xevm1 at gmail dot com
+
 📝 I write smart contracts for myself and other people in Solidity and associated frontend GUIs in React
 
 🔎 I scan blockchains for other people's smart contracts to find Maximum Extractable Value (MEV)
@@ -23,6 +29,7 @@ I typically do not contribute to open source DeFi protocols, although since that
 - [SAVE GAS! Solidity and Typescript "Data packing" and "bitpacking" example](https://github.com/0xevm1/chad-dao-solidity-bit-packing) to save everyone gas.
 
 To that end, I'm also working in Rust, and have picked up many programming languages and frameworks over years, helped by my Computer Science degree.
+
 
 
 ### My favorite frameworks, libraries and tools
