@@ -16,7 +16,7 @@
 
 I can do some of those things for you too! I'm passionate about knowing the latest in smart contract development trends, and what projects are coming to the market. 
 
-### Open Source projects
+### Open Source Projects
 
 I typically do not contribute to open source DeFi protocols, although since thats what _**you**_ want to see, periodically I upload or can make public some examples of my work and competence.
 
