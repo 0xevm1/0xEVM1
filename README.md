@@ -16,9 +16,11 @@
 
 I can do some of those things for you too! I'm passionate about knowing the latest in smart contract development trends, and what projects are coming to the market. 
 
-I typically do not contribute to open source DeFi protocols, periodically I upload or make public some examples of my work and competence.
+### Open Source projects
 
-- [Solidity and Typescript "Data packing" and "bitpacking" example](https://github.com/0xevm1/chad-dao-solidity-bit-packing) to save everyone gas.
+I typically do not contribute to open source DeFi protocols, although since thats what [b]you[/b] want to see, periodically I upload or can make public some examples of my work and competence.
+
+- [SAVE GAS! Solidity and Typescript "Data packing" and "bitpacking" example](https://github.com/0xevm1/chad-dao-solidity-bit-packing) to save everyone gas.
 
 To that end, I'm also working in Rust, and have picked up many programming languages and frameworks over years, helped by my Computer Science degree.
 
