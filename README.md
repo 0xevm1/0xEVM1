@@ -24,11 +24,11 @@ I can do some of those things for you too! I'm passionate about knowing the late
 
 ### Open Source Projects
 
-I typically do not contribute to open source DeFi protocols, but I work on the WrapperFi DAO 
+I typically do not contribute to open source DeFi protocols, but I recently do work on the WrapperFi DAO 
 
 - 🍬[WrapperFi Airdrop with Merkle Trees and EIP712 signatures](https://github.com/Wrapper-Fi/wrapper-fi-token-distributor-airdrop-ecdsa-merkle)
 
-although since thats what _**you**_ want to see, periodically I upload or can make public some examples of my work and competence.
+periodically I upload or can make public some examples of my work and competence.
 
 - ⛽️ [SAVE GAS! Solidity and Typescript "Data packing" and "bitpacking" example](https://github.com/0xevm1/chad-dao-solidity-bit-packing) to save everyone gas.
 
