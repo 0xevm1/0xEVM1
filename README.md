@@ -26,7 +26,7 @@ I can do some of those things for you too! I'm passionate about knowing the late
 
 I typically do not contribute to open source DeFi protocols, but I recently do work on the WrapperFi DAO 
 
-- 🍬[WrapperFi Airdrop with Merkle Trees and EIP712 signatures](https://github.com/Wrapper-Fi/wrapper-fi-token-distributor-airdrop-ecdsa-merkle)
+- 🍬[WrapperFi Token Airdrop with Merkle Trees and EIP712 signatures](https://github.com/Wrapper-Fi/wrapper-fi-token-distributor-airdrop-ecdsa-merkle)
 
 periodically I upload or can make public some examples of my work and competence.
 
