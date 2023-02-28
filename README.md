@@ -44,11 +44,13 @@ Email: 0xevm1 at gmail dot com
 
 ![Tracing what a smart contract is doing in the EVM](https://github.com/0xevm1/0xEVM1/blob/main/evm-efficiency-tracer.gif)
 
-- 🪐 [REACT and Typescript based Star Wars Planet catalogue app](https://github.com/0xevm1/swapi-planets)
+- 🪐 [REACT and Typescript based Star Wars Planet catalogue app](https://github.com/0xevm1/swapi-planets) , live demo here https://0xevm1.github.io/swapi-planets/
 
 <img src="https://github.com/0xevm1/0xEVM1/blob/main/swapiimage.png" width=300>
 
-- 📺[REACT based Smart TV streaming app browser]
+- 📺[REACT based Smart TV streaming app browser](https://github.com/0xevm1/smart-tv-streamingapp)
+
+<img src="https://github.com/0xevm1/0xEVM1/blob/main/streamingapp.png">
 
 
 ### My favorite frameworks, libraries and tools
