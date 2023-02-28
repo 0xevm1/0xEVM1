@@ -1,4 +1,4 @@
-### 0xEVM1 ⚙️🔨 Dev ჻ Audit ჻ MEV 
+### 0xEVM1 ⚙️🔨 Full Stack Developer (Frontend/Backend + Smart Contracts) ჻
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -10,30 +10,45 @@ Telegram: [@evm1dev](https://t.me/evm1dev)
 
 Email: 0xevm1 at gmail dot com
 
-📝 I write smart contracts for myself and other people in Solidity and associated frontend GUIs in React
-
-🔎 I scan blockchains for other people's smart contracts to find Maximum Extractable Value (MEV)
-
-🤓 I audit other people's smart contracts
 
 
-![Tracing what a smart contract is doing in the EVM](https://github.com/0xevm1/0xEVM1/blob/main/evm-efficiency-tracer.gif)
 
 
-I can do some of those things for you too! I'm passionate about knowing the latest in smart contract development trends, and what projects are coming to the market. 
 
-### Open Source Projects
 
-I typically do not contribute to open source DeFi protocols, but I recently do work on the WrapperFi DAO 
+### Portfolio
 
 - 🍬[WrapperFi Token Airdrop with Merkle Trees and EIP712 signatures](https://github.com/Wrapper-Fi/wrapper-fi-token-distributor-airdrop-ecdsa-merkle)
 
-periodically I upload or can make public some examples of my work and competence.
+
+                                  ,~-.
+                                 (  ' )-.          ,~'`-.
+                              ,~' `  ' ) )       _(   _) )
+                             ( ( .--.===.--.    (  `    ' )
+                              `.%%.;::|888.#`.   `-'`~~=~'
+                              /%%/::::|8888\##\
+                             |%%/:::::|88888\##|
+                             |%%|:::::|88888|##|.,-.
+                             \%%|:::::|88888|##/    )_
+                              \%\:::::|88888/#/ ( `'  )
+                               \%\::::|8888/#/(  ,  -'`-.
+                           ,~-. `%\:::|888/#'(  (     ') )
+                          (  ) )_ `\__|__/'   `~-~=--~~='
+                         ( ` ')  ) [VVVVV]
+                ∘ ∘˚🍬°.˚°∘.🍬˚🍬°∘°(˘ω˘♡)💕
+            ∘˚˳🍬∘˚˳°∘            💕[XXX]
+       ∘˚🍬°∘ ∘˚˳°∘                 `"""'  
+
 
 - ⛽️ [SAVE GAS! Solidity and Typescript "Data packing" and "bitpacking" example](https://github.com/0xevm1/chad-dao-solidity-bit-packing) to save everyone gas.
 
-To that end, I'm also working in Rust, and have picked up many programming languages and frameworks over years, helped by my Computer Science degree.
+![Tracing what a smart contract is doing in the EVM](https://github.com/0xevm1/0xEVM1/blob/main/evm-efficiency-tracer.gif)
 
+- 🪐 [REACT and Typescript based Star Wars Planet catalogue app](https://github.com/0xevm1/swapi-planets)
+
+![|100](https://github.com/0xevm1/0xEVM1/blob/main/swapiimage.png)
+
+- 📺[REACT based Smart TV streaming app browser]
 
 
 ### My favorite frameworks, libraries and tools
