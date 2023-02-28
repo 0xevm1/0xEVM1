@@ -18,7 +18,7 @@ Email: 0xevm1 at gmail dot com
 
 ### Portfolio
 
-- 🪐 [REACT and Typescript based Star Wars Planet catalogue app](https://github.com/0xevm1/swapi-planets) , live demo here https://0xevm1.github.io/swapi-planets/
+- 🪐 [REACT + Typescript based Star Wars Planet catalogue app](https://github.com/0xevm1/swapi-planets) , live demo here https://0xevm1.github.io/swapi-planets/
 
 <img src="https://github.com/0xevm1/0xEVM1/blob/main/swapiimage.png" width=300>
 
