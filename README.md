@@ -33,7 +33,7 @@ Email: 0xevm1 at gmail dot com
     </table>
 </div>
 
-## - 📺 [REACT based Smart TV streaming app browser (for slow and low resource devices)](https://github.com/0xevm1/smart-tv-streamingapp)
+## - 📺 [REACT based Smart TV streaming app browser (optimized for low resource devices)](https://github.com/0xevm1/smart-tv-streamingapp)
 
 <img src="https://github.com/0xevm1/0xEVM1/blob/main/streamingapp.png">
 
