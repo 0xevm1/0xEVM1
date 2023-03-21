@@ -37,6 +37,11 @@ Email: 0xevm1 at gmail dot com
 
 <img src="https://github.com/0xevm1/0xEVM1/blob/main/streamingapp.png">
 
+## - 📝 [TODO List App w/ paging, Next.JS React, Typescript, Node.JS, SQL, Tailwinds, Jest](https://github.com/0xevm1/nextjs-todo-db)
+
+![Dev Environment Screenshot](https://github.com/0xevm1/nextjs-todo-db/blob/main/todolist.png)
+
+
 ## - 🍬[WrapperFi Token Airdrop with Merkle Trees and EIP712 signatures](https://github.com/Wrapper-Fi/wrapper-fi-token-distributor-airdrop-ecdsa-merkle)
 
 
