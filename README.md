@@ -19,28 +19,9 @@ Email: 0xevm1 at gmail dot com
 
 ### Portfolio, Open Source Demos
 
-## - 🪐 [REACT + Typescript based Star Wars Planet catalogue app](https://github.com/0xevm1/swapi-planets) , live demo here https://0xevm1.github.io/swapi-planets/
+## - [WrapperFi Dynamically rendered SVG, deployed w/ Typescript, Hardhat, Solidity](https://github.com/0xevm1/wrapperfi-contracts)
 
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-              <img src="https://github.com/0xevm1/0xEVM1/blob/main/swapiimage.png" width=300>
-      	    </td>
-            <td style="padding:10px">
-            	<img src="https://github.com/0xevm1/0xEVM1/blob/main/swapiimage2.png" width=300>
-            </td>
-        </tr>
-    </table>
-</div>
-
-## - 📺 [REACT based Smart TV streaming app browser (optimized for low resource devices)](https://github.com/0xevm1/smart-tv-streamingapp)
-
-<img src="https://github.com/0xevm1/0xEVM1/blob/main/streamingapp.png">
-
-## - 📝 [TODO List App w/ paging, Next.JS React, Typescript, Node.JS, SQL, Tailwinds, Jest](https://github.com/0xevm1/nextjs-todo-db)
-
-![Dev Environment Screenshot](https://github.com/0xevm1/nextjs-todo-db/blob/main/todolist.png)
+<img width="400" height="400" src="https://raw.githubusercontent.com/0xevm1/wrapperfi-contracts/fd5bcd846965d070c2042d7d4656361810323b54/contracts/CandyWrapper-basevectors.svg">
 
 
 ## - 🍬[WrapperFi Token Airdrop with Merkle Trees and EIP712 signatures](https://github.com/Wrapper-Fi/wrapper-fi-token-distributor-airdrop-ecdsa-merkle)
