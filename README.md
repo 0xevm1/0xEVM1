@@ -21,7 +21,7 @@ Email: 0xevm1 at gmail dot com
 
 ## - [WrapperFi Dynamically rendered SVG, deployed w/ Typescript, Hardhat, Solidity](https://github.com/0xevm1/wrapperfi-contracts)
 
-<img width="300" height="400" src="https://raw.githubusercontent.com/0xevm1/wrapperfi-contracts/fd5bcd846965d070c2042d7d4656361810323b54/contracts/CandyWrapper-basevectors.svg"><img height="400" width="500" src="https://raw.githubusercontent.com/0xevm1/0xEVM1/main/candycode-assembly.png">
+<img width="300" height="400" src="https://raw.githubusercontent.com/0xevm1/wrapperfi-contracts/fd5bcd846965d070c2042d7d4656361810323b54/contracts/CandyWrapper-basevectors.svg"><img width="500" src="https://raw.githubusercontent.com/0xevm1/0xEVM1/main/candycode-assembly.png">
 
 This is a completely onchain NFT with many variations. Uses assembly and careful use of storage slots to be efficient. Retrieves and persists attributes by using random methods with a non-random seed. Has mouse-over and tap events in CSS that are tied to various SVG elements.
 
