@@ -19,7 +19,7 @@ Email: 0xevm1 at gmail dot com
 
 ### Portfolio, Open Source Demos
 
-## - [WrapperFi Dynamically rendered SVG, deployed w/ Typescript, Hardhat, Solidity](https://github.com/0xevm1/wrapperfi-contracts)
+## - [WrapperFi Dynamically rendered SVG, onchain NFT, ERC721A (Typescript, Hardhat, Solidity)](https://github.com/0xevm1/wrapperfi-contracts)
 
 <img width="300" height="400" src="https://raw.githubusercontent.com/0xevm1/wrapperfi-contracts/fd5bcd846965d070c2042d7d4656361810323b54/contracts/CandyWrapper-basevectors.svg"><img width="500" src="https://raw.githubusercontent.com/0xevm1/0xEVM1/main/candycode-assembly.png">
 
