@@ -7,8 +7,6 @@
 
 ### Contact Me via:
 
-Telegram: [@evm1dev](https://t.me/evm1dev)
-
 Email: 0xevm1 at gmail dot com
 
 
